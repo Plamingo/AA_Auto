@@ -1,0 +1,7 @@
+[theme]
+
+primaryColor = "#FF4B4B" #필터색상
+backgroundColor = "#0E1117" #메인 배경색00172B
+secondaryBackgroundColor = "#262730" #사이드바 배경색 #0083B8
+textColor = "#FAFAFA" #문자색 
+font = "sans serif" #폰트
